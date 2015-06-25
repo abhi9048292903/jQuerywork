@@ -1,0 +1,16 @@
+.box-land{
+	width: auto;
+	border: 1px solid #000;
+	padding: 10px;
+	margin: 0;
+	text-align: left;
+}
+.heading{
+	display: block;
+	height: 30px;
+	background-color: #7e526b;
+	color: #fff;
+	padding-top: 3px;
+	font-size: 18px;
+	font-weight: normal;
+}
